@@ -34,3 +34,16 @@ curl -X POST https://pitchcraftai.app/api/v1/generate \
   -H "X-API-Key: your_key" \
   -H "Content-Type: application/json" \
   -d '{"idea": "An AI tool that generates business plans", "industry": "SaaS"}'
+
+  📖 API Documentation
+
+Languages
+French 🇫🇷 | English 🇬🇧 | Spanish 🇪🇸
+
+Links
+🌐 Website
+🚀 Generate a Business Plan
+💰 Pricing
+📖 Blog
+License
+Proprietary — © 2026 PitchCraft AI
